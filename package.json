@@ -1,0 +1,9 @@
+{
+  "name": "symphony-one",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal Node web app scaffold",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
