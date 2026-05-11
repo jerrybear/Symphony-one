@@ -9,4 +9,4 @@ npm start
 ```
 
 The server listens on `http://127.0.0.1:3000` by default and returns a simple
-`hello world` page.
+`Goodbye` page.

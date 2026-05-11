@@ -11,7 +11,7 @@ const html = `<!doctype html>
     <title>Symphony One</title>
   </head>
   <body>
-    <h1>hello world</h1>
+    <h1>Goodbye</h1>
   </body>
 </html>`;
 
